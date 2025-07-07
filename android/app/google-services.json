@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131651710599",
+    "project_id": "litamore-e1fb0",
+    "storage_bucket": "litamore-e1fb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131651710599:android:471ff918c0a4512872d222",
+        "android_client_info": {
+          "package_name": "com.siddharam_sutar.app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGWT-X5j79qosw_LRIRsAmvODgyP8uK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
